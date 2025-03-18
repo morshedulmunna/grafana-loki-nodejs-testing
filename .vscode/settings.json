@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "boltdb",
+        "ingester",
+        "inmemory",
+        "kvstore",
+        "lifecycler"
+    ]
+}
